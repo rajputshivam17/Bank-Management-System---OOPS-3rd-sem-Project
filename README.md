@@ -2,13 +2,13 @@
 
 OOP Concepts | C++ | File Handling
 
-📌 Overview
+1 ) 📌 Overview
 
 The Bank Management System is a C++ mini-project developed using Object-Oriented Programming (OOP) concepts.
 It simulates basic banking operations like creating an account, depositing money, withdrawing funds, checking balance, and displaying customer details.
 The system uses file handling to store customer data permanently, ensuring that records remain even after the program closes.
 
-🎯 Features
+2) 🎯 Features
 
 Account Creation – Create new accounts with name, type, and initial deposit
 
@@ -22,7 +22,7 @@ Account Deletion – Remove closed accounts permanently
 
 File Handling – Save and update account details in binary files (account.dat)
 
-🛠️ Technologies Used
+3) 🛠️ Technologies Used
 
 Language: C++
 
@@ -32,7 +32,7 @@ Storage: File Handling (Binary File I/O)
 
 Interface: Console-based (Menu-driven)
 
-🏗️ Class Structure
+4) 🏗️ Class Structure
 
 Class: Account
 Attributes:
@@ -69,7 +69,7 @@ deleteAccount()
 
 displayAll()
 
-📊 Project Flow
+5) 📊 Project Flow
 
 1️⃣ User runs the program
 2️⃣ Creates a new account
@@ -77,7 +77,7 @@ displayAll()
 4️⃣ Checks balance or views all accounts
 5️⃣ Exits the system (data is stored in account.dat file)
 
-📷 Sample Console Screen
+6) 📷 Sample Console Screen
 ===============================
      BANK MANAGEMENT SYSTEM
 ===============================
@@ -90,7 +90,7 @@ displayAll()
 7. Exit
 Enter your choice: _
 
-🌍 Future Scope
+7) 🌍 Future Scope
 
 Add User Login System (Admin & Customer)
 
